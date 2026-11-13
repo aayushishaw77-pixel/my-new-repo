@@ -1,4 +1,4 @@
 # my-new-repo
 This is my first repository
 <br>
-Auther - Aayushi Shaw
+Auther - Aayushi Shaw(K2)
